@@ -8,7 +8,7 @@ Tooling, scripts, cheat sheets, automation, and reference material.
 
 | File / Folder | Description |
 |---------------|-------------|
-| | |
+| [Practice-Notes](./Practice-Notes) | Notes and answers from practical labs and resource-based exercises |
 
 ---
 
