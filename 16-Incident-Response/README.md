@@ -1,6 +1,6 @@
 # Incident-Response
 
-Case files, response playbooks, and post-incident documentation.
+Response playbooks and incident report documentation.
 
 ---
 
@@ -8,7 +8,8 @@ Case files, response playbooks, and post-incident documentation.
 
 | File / Folder | Description |
 |---------------|-------------|
-| | |
+| [handling/](./handling) | Incident handling playbooks and operational guidance |
+| [report/](./report) | Incident report templates and documentation |
 
 ---
 
